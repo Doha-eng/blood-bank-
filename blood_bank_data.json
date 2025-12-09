@@ -1,0 +1,92 @@
+{
+  "inventory": {
+    "A+": 2000,
+    "A-": 2150,
+    "B+": 1900,
+    "B-": 1750,
+    "AB+": 2000,
+    "AB-": 2000,
+    "O+": 500,
+    "O-": 2000
+  },
+  "donors": [
+    {
+      "name": "salma",
+      "email": "salma123@yahoo.com",
+      "age": 20,
+      "id": 1212,
+      "phone": "0125432565",
+      "donated_amount": 150,
+      "blood_type": "A-",
+      "donation_date": "2025-01-01"
+    }
+  ],
+  "patients": [
+    {
+      "name": "fathya mohamed ",
+      "email": "fatheya123@gmail.com",
+      "age": 30,
+      "id": 1234,
+      "phone": "012357884789",
+      "required_amount": 1600,
+      "blood_type": "O+",
+      "request_date": "2025-12-06"
+    },
+    {
+      "name": "fawzeya mohamed ",
+      "email": "fawzeya123@gmail.com",
+      "age": 20,
+      "id": 12111,
+      "phone": "012357884734",
+      "required_amount": 250,
+      "blood_type": "B-",
+      "request_date": "2025-12-06"
+    }
+  ],
+  "logs": [
+    "2025-12-06 21:22:11 - Generated comprehensive reports.",
+    "2025-12-06 21:22:19 - Viewed donors transaction history.",
+    "2025-12-06 21:22:24 - Viewed patients transaction history.",
+    "2025-12-06 21:22:25 - Viewed donors transaction history.",
+    "2025-12-06 21:22:55 - Generated comprehensive reports.",
+    "2025-12-06 21:22:56 - Viewed donors transaction history.",
+    "2025-12-06 21:41:52 - Generated comprehensive reports.",
+    "2025-12-06 21:41:56 - Viewed donors transaction history.",
+    "2025-12-06 21:44:36 - Removed 1600ml from O+ (remaining: 400 ml)",
+    "2025-12-06 21:45:02 - Removed 100ml from B+ (remaining: 1900 ml)",
+    "2025-12-06 21:46:05 - Search performed for 'fatheya' in donors. Found 0 records.",
+    "2025-12-06 21:46:26 - Search performed for 'fatheya' in donors. Found 0 records.",
+    "2025-12-06 21:46:34 - Search performed for 'fatheya' in patients. Found 0 records.",
+    "2025-12-06 21:47:13 - Search performed for 'Fatheya' in patients. Found 0 records.",
+    "2025-12-06 21:47:22 - Search performed for 'Fathya' in donors. Found 0 records.",
+    "2025-12-06 21:47:25 - Search performed for 'Fathya' in patients. Found 1 records.",
+    "2025-12-06 21:47:37 - Generated comprehensive reports.",
+    "2025-12-06 21:47:46 - Viewed donors transaction history.",
+    "2025-12-06 21:47:49 - Viewed patients transaction history.",
+    "2025-12-06 23:11:50 - Staff entry: fathy abo elsoud (ID: 12222, Salary: 5000.0)",
+    "2025-12-06 23:13:05 - Added 150ml to A- (new: 2150 ml)",
+    "2025-12-06 23:14:00 - Removed 250ml from B- (remaining: 1750 ml)",
+    "2025-12-06 23:14:27 - Search performed for 'fathya' in donors. Found 0 records.",
+    "2025-12-06 23:14:33 - Search performed for 'fatheya' in donors. Found 0 records.",
+    "2025-12-06 23:14:36 - Search performed for 'fatheya' in patients. Found 0 records.",
+    "2025-12-06 23:14:44 - Search performed for 'fawzeya' in patients. Found 1 records.",
+    "2025-12-06 23:14:59 - Generated comprehensive reports.",
+    "2025-12-06 23:16:41 - Viewed donors transaction history.",
+    "2025-12-06 23:16:50 - Viewed patients transaction history.",
+    "2025-12-06 23:16:58 - Viewed donors transaction history.",
+    "2025-12-06 23:17:27 - Viewed donors transaction history.",
+    "2025-12-06 23:17:48 - Viewed donors transaction history.",
+    "2025-12-06 23:23:09 - Generated comprehensive reports.",
+    "2025-12-06 23:23:33 - Generated comprehensive reports.",
+    "2025-12-08 21:56:02 - Added 100ml to O+ (new: 500 ml)",
+    "2025-12-08 21:56:18 - Search performed for '1234' in donors. Found 0 records.",
+    "2025-12-08 21:56:23 - Search performed for '12345' in donors. Found 0 records.",
+    "2025-12-08 21:56:25 - Search performed for '12345' in patients. Found 0 records.",
+    "2025-12-08 21:56:29 - Search performed for '1234' in patients. Found 1 records.",
+    "2025-12-08 21:56:44 - Generated comprehensive reports.",
+    "2025-12-08 21:56:53 - Viewed donors transaction history.",
+    "2025-12-08 21:57:16 - Viewed patients transaction history.",
+    "2025-12-08 22:47:30 - Generated comprehensive reports.",
+    "2025-12-08 22:47:32 - Viewed donors transaction history."
+  ]
+}
